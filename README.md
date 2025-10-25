@@ -30,3 +30,8 @@
 <img src="card1.jpg" width="200">
 <img src="card2.jpg" width="200">
 <img src="card3.jpg" width="200">
+# 钓鱼计数
+按图示使用
+<img src="counts3.jpg" width="200">
+<img src="counts1.jpg" width="200">
+<img src="counts2.jpg" width="200">
