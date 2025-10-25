@@ -35,3 +35,8 @@
 <img src="counts3.jpg" width="200">
 <img src="counts1.jpg" width="200">
 <img src="counts2.jpg" width="200">
+# 钓鱼序列
+按图示使用
+<img src="sequence1.jpg" width="200">
+<img src="sequence2.jpg" width="200">
+<img src="sequence3.jpg" width="200">
