@@ -45,3 +45,9 @@
 <img src="stats1.jpg" width="200">
 <img src="stats3.jpg" width="200">
 <img src="stats4.jpg" width="200">
+# 钓鱼利润计算
+按图示使用
+<img src="profit1.jpg" width="200">
+<img src="profit2.jpg" width="200">
+<img src="profit3.jpg" width="200">
+<img src="profit4.jpg" width="200">
