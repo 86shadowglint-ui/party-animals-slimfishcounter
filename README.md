@@ -61,3 +61,7 @@
 按图示使用
 <img src="export1.jpg" width="200">
 <img src="export2.jpg" width="200">
+# 果冻鱼播报
+按图示使用
+<img src="slim1.jpg" width="200">
+<img src="slim2.jpg" width="200">
