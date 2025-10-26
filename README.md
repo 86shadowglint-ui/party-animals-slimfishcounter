@@ -42,5 +42,5 @@
 <img src="sequence3.jpg" width="200">
 # 数据统计
 <img src="stats1.jpg" width="200">
-
-<img src="stats2.jpg" width="200">
+<img src="stats3.jpg" width="200">
+<img src="stats4.jpg" width="200">
