@@ -27,44 +27,44 @@
 
 # 钓鱼图鉴
 按图示使用
-<img src="card1.jpg" width="200">
-<img src="card2.jpg" width="200">
-<img src="card3.jpg" width="200">
+<img src="pictures/card1.jpg" width="200">
+<img src="pictures/card2.jpg" width="200">
+<img src="pictures/card3.jpg" width="200">
 # 钓鱼计数
 按图示使用
-<img src="counts3.jpg" width="200">
-<img src="counts1.jpg" width="200">
-<img src="counts2.jpg" width="200">
+<img src="pictures/counts3.jpg" width="200">
+<img src="pictures/counts1.jpg" width="200">
+<img src="pictures/counts2.jpg" width="200">
 # 钓鱼序列
 按图示使用
-<img src="sequence1.jpg" width="200">
-<img src="sequence2.jpg" width="200">
-<img src="sequence3.jpg" width="200">
+<img src="pictures/sequence1.jpg" width="200">
+<img src="pictures/sequence2.jpg" width="200">
+<img src="pictures/sequence3.jpg" width="200">
 # 数据统计
 按图示使用
-<img src="stats1.jpg" width="200">
-<img src="stats3.jpg" width="200">
-<img src="stats4.jpg" width="200">
+<img src="pictures/stats1.jpg" width="200">
+<img src="pictures/stats3.jpg" width="200">
+<img src="pictures/stats4.jpg" width="200">
 # 钓鱼利润计算
 按图示使用
-<img src="profit1.jpg" width="200">
-<img src="profit2.jpg" width="200">
-<img src="profit3.jpg" width="200">
-<img src="profit4.jpg" width="200">
+<img src="pictures/profit1.jpg" width="200">
+<img src="pictures/profit2.jpg" width="200">
+<img src="pictures/profit3.jpg" width="200">
+<img src="pictures/profit4.jpg" width="200">
 # 数据导入
 按图示使用
-<img src="import1.jpg" width="200">
-<img src="import2.jpg" width="200">
-<img src="import3.jpg" width="200">
-<img src="import4.jpg" width="200">
+<img src="pictures/import1.jpg" width="200">
+<img src="pictures/import2.jpg" width="200">
+<img src="pictures/import3.jpg" width="200">
+<img src="pictures/import4.jpg" width="200">
 # 数据导出
 按图示使用
-<img src="export1.jpg" width="200">
-<img src="export2.jpg" width="200">
+<img src="pictures/export1.jpg" width="200">
+<img src="pictures/export2.jpg" width="200">
 # 果冻鱼播报
 按图示使用
-<img src="slim1.jpg" width="200">
-<img src="slim2.jpg" width="200">
+<img src="pictures/slim1.jpg" width="200">
+<img src="pictures/slim2.jpg" width="200">
 # 下载安装
 
 前往 [Releases](https://github.com/moesnow/March7thAssistant/releases/latest) 下载后解压双击三月七图标的 `March7th Launcher.exe` 打开图形界面
