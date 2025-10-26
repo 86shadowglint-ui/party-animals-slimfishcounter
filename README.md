@@ -65,3 +65,10 @@
 按图示使用
 <img src="slim1.jpg" width="200">
 <img src="slim2.jpg" width="200">
+# 下载安装
+
+前往 [Releases](https://github.com/moesnow/March7thAssistant/releases/latest) 下载后解压双击三月七图标的 `March7th Launcher.exe` 打开图形界面
+
+如果需要使用 **任务计划程序** 定时运行或直接执行 **完整运行**，可以使用终端图标的 `March7th Assistant.exe`
+
+检测更新可以点击图形界面设置最底下的按钮，或双击 `March7th Updater.exe`
