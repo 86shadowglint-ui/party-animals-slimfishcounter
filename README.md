@@ -69,4 +69,12 @@
 
 前往 [Releases](https://github.com/86shadowglint-ui/party-animals-slimfishcounter/releases) 下载后在安卓系统上安装程序打开软件
 
+---
 
+如果喜欢本项目，可以微信赞赏送作者一杯咖啡☕
+
+您的支持就是作者开发和维护项目的动力🚀
+
+![sponsor](pictures/sponsor.png)
+
+---
