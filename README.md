@@ -26,55 +26,74 @@
 - **果冻鱼播报**：特色功能，当你钓出果冻鱼时，给你打call，带给你情绪价值
 
 # 钓鱼图鉴
-按图示使用
-<img src="pictures/card1.jpg" width="200">
-<img src="pictures/card2.jpg" width="200">
-<img src="pictures/card3.jpg" width="200">
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="pictures/card1.jpg" height="400">
+  <img src="pictures/card2.jpg" height="400">
+  <img src="pictures/card3.jpg" height="400">
+</div>
+
 # 钓鱼计数
-按图示使用
-<img src="pictures/counts3.jpg" width="200">
-<img src="pictures/counts1.jpg" width="200">
-<img src="pictures/counts2.jpg" width="200">
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="pictures/counts3.jpg" height="400">
+  <img src="pictures/counts1.jpg" height="400">
+  <img src="pictures/counts2.jpg" height="400">
+</div>
+
 # 钓鱼序列
-按图示使用
-<img src="pictures/sequence1.jpg" width="200">
-<img src="pictures/sequence2.jpg" width="200">
-<img src="pictures/sequence3.jpg" width="200">
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="pictures/sequence1.jpg" height="400">
+  <img src="pictures/sequence2.jpg" height="400">
+  <img src="pictures/sequence3.jpg" height="400">
+</div>
+
 # 数据统计
-按图示使用
-<img src="pictures/stats1.jpg" width="200">
-<img src="pictures/stats3.jpg" width="200">
-<img src="pictures/stats4.jpg" width="200">
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="pictures/stats1.jpg" height="400">
+  <img src="pictures/stats3.jpg" height="400">
+  <img src="pictures/stats4.jpg" height="400">
+</div>
+
 # 钓鱼利润计算
-按图示使用
-<img src="pictures/profit1.jpg" width="200">
-<img src="pictures/profit2.jpg" width="200">
-<img src="pictures/profit3.jpg" width="200">
-<img src="pictures/profit4.jpg" width="200">
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="pictures/profit1.jpg" height="400">
+  <img src="pictures/profit2.jpg" height="400">
+  <img src="pictures/profit3.jpg" height="400">
+  <img src="pictures/profit4.jpg" height="400">
+</div>
+
 # 数据导入
-按图示使用
-<img src="pictures/import1.jpg" width="200">
-<img src="pictures/import2.jpg" width="200">
-<img src="pictures/import3.jpg" width="200">
-<img src="pictures/import4.jpg" width="200">
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="pictures/import1.jpg" height="400">
+  <img src="pictures/import2.jpg" height="400">
+  <img src="pictures/import3.jpg" height="400">
+  <img src="pictures/import4.jpg" height="400">
+</div>
+
 # 数据导出
-按图示使用
-<img src="pictures/export1.jpg" width="200">
-<img src="pictures/export2.jpg" width="200">
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="pictures/export1.jpg" height="400">
+  <img src="pictures/export2.jpg" height="400">
+</div>
+
 # 果冻鱼播报
-按图示使用
-<img src="pictures/slim1.jpg" width="200">
-<img src="pictures/slim2.jpg" width="200">
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="pictures/slim1.jpg" height="400">
+  <img src="pictures/slim2.jpg" height="400">
+</div>
+
 # 下载安装
 
 前往 [Releases](https://github.com/86shadowglint-ui/party-animals-slimfishcounter/releases) 下载后在安卓系统上安装程序打开软件
 
 ---
+作者：bilibili @eeeeeee额额e
 
 如果喜欢本项目，可以微信赞赏送作者一杯咖啡☕
 
 您的支持就是作者开发和维护项目的动力🚀
-
-![sponsor](pictures/sponsor1.png)
+<div align="center">
+  <img src="pictures/sponsor1.png" height="200" style="margin: 0 10px;">
+</div>
 
 ---
+
