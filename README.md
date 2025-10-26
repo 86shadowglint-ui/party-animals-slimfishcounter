@@ -51,3 +51,9 @@
 <img src="profit2.jpg" width="200">
 <img src="profit3.jpg" width="200">
 <img src="profit4.jpg" width="200">
+# 数据导入
+按图示使用
+<img src="import1.jpg" width="200">
+<img src="import2.jpg" width="200">
+<img src="import3.jpg" width="200">
+<img src="import4.jpg" width="200">
