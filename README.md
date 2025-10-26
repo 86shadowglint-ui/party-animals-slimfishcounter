@@ -67,6 +67,6 @@
 <img src="pictures/slim2.jpg" width="200">
 # 下载安装
 
-前往 [Releases](https://github.com/86shadowglint-ui/party-animals-slimfishcounter/releases/lastest) 下载后在安卓系统上安装程序打开软件
+前往 [Releases](https://github.com/86shadowglint-ui/party-animals-slimfishcounter/releases) 下载后在安卓系统上安装程序打开软件
 
 
