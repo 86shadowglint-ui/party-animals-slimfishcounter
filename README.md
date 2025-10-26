@@ -1,6 +1,6 @@
 <div align="center">
   <h1 align="center">
-    <img src="guodongyu_chuanshuo.png" width="200">
+    <img src="pictures/guodongyu_chuanshuo.png" width="200">
     <br/>
     Slimfishcounter·果冻鱼计数器
   </h1>
@@ -67,8 +67,6 @@
 <img src="pictures/slim2.jpg" width="200">
 # 下载安装
 
-前往 [Releases](https://github.com/moesnow/March7thAssistant/releases/latest) 下载后解压双击三月七图标的 `March7th Launcher.exe` 打开图形界面
+前往 [Releases](https://github.com/86shadowglint-ui/party-animals-slimfishcounter/releases/lastest) 下载后在安卓系统上安装程序打开软件
 
-如果需要使用 **任务计划程序** 定时运行或直接执行 **完整运行**，可以使用终端图标的 `March7th Assistant.exe`
 
-检测更新可以点击图形界面设置最底下的按钮，或双击 `March7th Updater.exe`
