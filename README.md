@@ -75,6 +75,6 @@
 
 您的支持就是作者开发和维护项目的动力🚀
 
-![sponsor](pictures/sponsor.png)
+![sponsor](pictures/sponsor1.png)
 
 ---
